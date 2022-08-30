@@ -1,0 +1,17 @@
+<prog>
+    <currDir>C:\</currDir>
+    <commands>
+        <com>
+            <name>cd</name>
+            <class>CD</class>
+        </com>
+        <com>
+            <name>dir</name>
+            <class>DIR</class>
+        </com>
+        <com>
+            <name>pwd</name>
+            <class>PWD</class>
+        </com>
+    </commands>
+</prog>
